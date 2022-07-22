@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+ <Style id="style1">
+ <IconStyle>
+ <Icon>
+ <href>https://lh3.googleusercontent.com/MSOuW3ZjC7uflJAMst-cykSOEOwI_cVz96s2rtWTN4-Vu1NOBw80pTqrTe06R_AMfxS2=w170</href>
+ </Icon>
+ </IconStyle>
+ </Style><Placemark>
+ <name>Microphone 454356</name>
+ <description>Donald</description>
+ <styleUrl>#style1</styleUrl>
+ <Point>
+ <coordinates>-79.95920304,40.4398469,0.00</coordinates>
+ </Point>
+</Placemark><Placemark>
+ <name>Microphone 12323</name>
+ <description>Barack</description>
+ <styleUrl>#style1</styleUrl>
+ <Point>
+ <coordinates>-79.96002024,40.43929865,0.000</coordinates>
+ </Point>
+</Placemark></Document>
+</kml>
